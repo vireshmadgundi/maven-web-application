@@ -9,9 +9,9 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies</h1>
-<h1 align="center">Phone Number: +91 9980923216</h1>
-<h1 align="center">Mithun Technologies is a Very Good Training Center for DevOps, Cloud, Kubernetes and Terraform</h1>
+<h1 align="center">Welcome to Mithun Technologies Private Ltd. Best Place to upskill - New DevOps with AWS Batch will start on May 1st 7.30 PM IST - GitHub Poll SCM Demo by Viresh Madgundi </h1>
+<h1 align="center">Welcome to Mithun Technologies Private Ltd. Phone Number: +91 9980923216, +91-9980923216, Bengaloru,Karnataka, India</h1>
+<h1 align="center">Mithun Technologies is a Very Good Training Center for DevOps with AWS, Python & AWS Solution Architecture, Cloud, Kubernetes and Terraform in Bengalore India. Teaching Real Time scenerios</h1>
 
 <h1 align="center">Trainer Name: Bhaskar Reddy Lacchannagari</h1>
 
